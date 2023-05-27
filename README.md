@@ -1,2 +1,2 @@
-# pglib
+# paglib
 RPA library using pyautogui
